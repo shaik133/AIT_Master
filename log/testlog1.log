@@ -1,0 +1,155 @@
+2022-05-08 11:43:11,927 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 11:50:34,567 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 11:50:34,607 [main] INFO com.atipage.qa.tests.Test1 - Validating the broken links if any
+2022-05-08 11:52:05,768 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 11:52:05,837 [main] INFO com.atipage.qa.tests.Test1 - Validating the broken links if any
+2022-05-08 13:08:13,950 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:16:15,705 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:18:30,892 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:19:01,452 [main] INFO com.atipage.qa.tests.Test1 - Validating the logo
+2022-05-08 13:19:02,827 [main] INFO com.atipage.qa.tests.Test1 - Veify Title of the page
+2022-05-08 13:23:21,178 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:23:55,325 [main] INFO com.atipage.qa.tests.Test1 - Validating the logo
+2022-05-08 13:23:56,039 [main] INFO com.atipage.qa.tests.Test1 - Veify Title of the page
+2022-05-08 13:25:42,210 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:26:17,473 [main] INFO com.atipage.qa.tests.Test1 - Validating the logo
+2022-05-08 13:26:19,588 [main] INFO com.atipage.qa.tests.Test1 - Veify Title of the page
+2022-05-08 13:26:23,343 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:26:23,363 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:26:44,253 [main] INFO com.atipage.qa.tests.Test1 - Click radio btn
+2022-05-08 13:26:45,223 [main] INFO com.atipage.qa.tests.Test1 - Selecting the options from autosuggest dropdown
+2022-05-08 13:26:47,168 [main] INFO com.atipage.qa.tests.Test1 - Selecting the options from static dropdown
+2022-05-08 13:26:47,543 [main] INFO com.atipage.qa.tests.Test1 - check the check box
+2022-05-08 13:26:48,887 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:26:48,905 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:27:05,115 [main] INFO com.atipage.qa.tests.Test1 - opening new Window screen
+2022-05-08 13:27:29,256 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:27:29,274 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:27:48,446 [main] INFO com.atipage.qa.tests.Test1 - opening new tab window
+2022-05-08 13:28:20,144 [main] INFO com.atipage.qa.tests.Test1 - Verifying Title of the page
+2022-05-08 13:28:20,380 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:28:20,404 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:29:53,491 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:29:53,508 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:30:19,889 [main] INFO com.atipage.qa.tests.Test1 - get text from the webtable
+2022-05-08 13:30:23,177 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:30:23,193 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:30:47,914 [main] INFO com.atipage.qa.tests.Test1 - dsiplay box is enabled
+2022-05-08 13:30:50,920 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:30:50,943 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:31:06,776 [main] INFO com.atipage.qa.tests.Test1 - Validaing the total sum of prices calculated with actual sum
+2022-05-08 13:31:10,155 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:31:10,177 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:31:26,203 [main] INFO com.atipage.qa.tests.Test1 - hover over btn
+2022-05-08 13:31:31,252 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:31:31,268 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:31:51,036 [main] INFO com.atipage.qa.tests.Test1 - Switching to frame
+2022-05-08 13:31:53,751 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:31:53,762 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:32:10,838 [main] INFO com.atipage.qa.tests.Test1 - Invoking all the footer links available
+2022-05-08 13:32:20,704 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 13:32:20,713 [main] INFO com.atipage.qa.tests.Test1 - ===================== Start Test ================
+2022-05-08 13:33:07,469 [main] INFO com.atipage.qa.tests.Test1 - Validating the broken links if any
+2022-05-08 13:34:32,262 [main] INFO com.atipage.qa.tests.Test1 - ==================== End Test =============
+2022-05-08 19:21:54,925 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ++++++++++++++++===================== Start Test ================++++++++++++++++
+2022-05-08 19:22:39,955 [main] INFO com.cartpage.qa.tests.addToCartPageTest - verify is GreenCart logo is displayed
+2022-05-08 19:22:44,171 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 19:22:44,200 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ++++++++++++++++===================== Start Test ================++++++++++++++++
+2022-05-08 19:22:54,786 [main] INFO com.cartpage.qa.tests.addToCartPageTest - Selecting the items and adding to cart
+2022-05-08 19:22:59,947 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 19:26:10,813 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-08 19:26:25,281 [main] INFO com.cartpage.qa.tests.addToCartPageTest - verify is GreenCart logo is displayed
+2022-05-08 19:26:25,583 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 19:26:25,604 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-08 19:26:40,452 [main] INFO com.cartpage.qa.tests.addToCartPageTest - Selecting the items and adding to cart
+2022-05-08 19:26:50,062 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 21:23:40,169 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-08 21:24:30,465 [main] INFO com.cartpage.qa.tests.addToCartPageTest - verify is GreenCart logo is displayed
+2022-05-08 21:24:32,479 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 21:24:32,504 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-08 21:24:48,109 [main] INFO com.cartpage.qa.tests.addToCartPageTest - Selecting the items and adding to cart
+2022-05-08 21:24:55,564 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 21:26:24,905 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-08 21:27:03,601 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-08 21:27:17,435 [main] INFO com.cartpage.qa.tests.addToCartPageTest - verify is GreenCart logo is displayed
+2022-05-08 21:27:18,802 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 21:27:18,823 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-08 21:27:41,288 [main] INFO com.cartpage.qa.tests.addToCartPageTest - Selecting the items and adding to cart
+2022-05-08 21:27:47,948 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ==================== End Test =============
+2022-05-08 21:28:43,092 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-08 21:29:07,403 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-08 21:29:15,394 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-08 21:31:19,625 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-08 21:31:32,556 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-08 21:31:36,876 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-08 21:35:38,165 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-08 21:35:50,225 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-08 21:35:54,118 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-08 21:37:06,558 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-08 21:37:19,424 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-08 21:37:24,676 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-08 21:39:03,135 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-08 21:39:15,112 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-08 21:39:20,639 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-08 21:40:09,737 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-08 21:40:22,791 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-08 21:40:26,616 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 08:16:59,732 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 08:17:49,433 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 08:18:00,815 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 08:37:25,996 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 08:38:05,170 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 08:38:11,240 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 08:40:00,291 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 08:40:28,045 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 08:40:34,338 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 08:45:10,204 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 08:45:34,437 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 08:45:43,776 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 08:58:46,188 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 08:59:14,680 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 08:59:20,154 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:01:51,588 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:02:14,853 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:02:22,254 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:31:27,614 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:32:03,942 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:32:10,090 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:36:56,704 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:37:35,423 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:37:41,879 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:39:08,875 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:39:48,302 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:39:56,829 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:42:57,973 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:43:17,791 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:43:25,420 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:45:49,243 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:46:34,866 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:46:45,876 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:52:45,820 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:53:14,891 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:53:24,389 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 09:57:39,025 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 09:58:09,017 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 09:58:16,301 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 10:10:01,663 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 10:10:32,246 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 10:10:42,765 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 10:13:23,591 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 10:13:50,654 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 10:13:58,575 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 10:33:15,203 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 10:33:56,362 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 10:34:04,618 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 10:53:26,329 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 10:54:11,311 [main] INFO com.cartpage.qa.tests.SummaryPageTest - Selecting the items and adding to cart
+2022-05-09 10:54:21,541 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ==================== End Test =============
+2022-05-09 10:59:27,935 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 12:21:32,108 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 12:24:12,940 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 12:32:27,930 [main] INFO com.cartpage.qa.tests.SummaryPageTest - ===================== Start Test ================
+2022-05-09 12:37:26,019 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-09 12:45:04,542 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-09 12:47:16,027 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================
+2022-05-09 12:54:19,582 [main] INFO com.cartpage.qa.tests.addToCartPageTest - ===================== Start Test ================

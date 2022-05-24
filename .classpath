@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/eclipse-java-2021-09-R-win32-x86_64/eclipse/plugins/org.testng_7.4.0.r202105021533.jar" sourcepath="C:/Users/Admin/Downloads/eclipse-java-2021-09-R-win32-x86_64/eclipse/plugins/org.testng.source_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Documents/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-api/4.0.0/selenium-api-4.0.0.jar" sourcepath="C:/Users/Admin/.m2/repository/org/seleniumhq/selenium/selenium-api/4.0.0/selenium-api-4.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-api"/>
+			<attribute name="maven.version" value="4.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" sourcepath="C:/Users/Admin/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="log4j"/>
+			<attribute name="maven.artifactId" value="log4j"/>
+			<attribute name="maven.version" value="1.2.17"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
